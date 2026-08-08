@@ -2,115 +2,122 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Yuxi Gao
+  given: Yuxi
+  family: Gao
+  alternate: '高宇熙'
+  pronunciation: ''
   pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "☁️"
+role: Cloud & AI Solutions Architect Intern @ Tencent
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I believe continuous experiences and learning are the best way to connect with the world.
+
+  I earned my BEng in Communication Engineering from CSUFT and am currently pursuing an MSc in Artificial Intelligence at Central South University. I'm passionate about AI's evolution and its impact across industries.
+
+  I currently work as a Solutions Architect at Tencent Cloud, exploring how AI can empower industry solutions and create business value. Prior to that, I completed several algorithm engineering internships at Bosch, Jinchuan Group, and Zhejiang United Science & Technology, which strengthened my foundation in applied AI and problem-solving.
+
+  Open to SA and Sales opportunities — feel free to reach out!
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Tencent Cloud
+    url: https://cloud.tencent.com/
+  - name: Central South University
+    url: https://www.csu.edu.cn/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:yuxi.gao@example.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/YuhsiGao
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/yuxi-gao-269537417/
 
 interests:
+  - Artificial Intelligence
   - Large Language Models
+  - Cloud Computing & Solutions Architecture
+  - AI for Industry Applications
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Master of Engineering in Artificial Intelligence
+    institution: Central South University (中南大学)
+    start: 2024-09-01
+    end: 2027-06-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Currently pursuing MSc in AI at Central South University. Research focus on artificial intelligence and its industrial applications.
+  - degree: Bachelor of Engineering in Communication Engineering
+    institution: Central South University of Forestry and Technology (中南林业科技大学)
+    start: 2020-09-01
+    end: 2024-06-30
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Solutions Architect Intern (Tencent Cloud)
+    org: Tencent (腾讯)
+    start: 2026-05-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Exploring how AI can empower industry solutions and create business value. Working on cloud and AI solutions architecture at Tencent Cloud.
+    location: Shenzhen, Guangdong, China
+  - role: Algorithm Engineer Intern
+    org: Bosch (博世)
+    start: 2025-10-01
+    end: 2025-11-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Algorithm engineering internship focused on applied AI solutions.
+    location: Changsha, Hunan, China
+  - role: Algorithm Engineer Intern
+    org: Jinchuan Group Ltd. (金川集团)
+    start: 2025-02-01
+    end: 2025-06-30
+    summary: |
+      Algorithm engineering internship. Hybrid work arrangement.
+    location: Jinchang, Gansu, China
+  - role: Algorithm Engineer Intern
+    org: Zhejiang United Science & Technology Co., Ltd. (浙江众合科技)
+    start: 2024-04-01
+    end: 2024-08-31
+    summary: |
+      Algorithm engineering internship focused on industrial AI applications.
+    location: Hangzhou, Zhejiang, China
 
 skills:
-  - name: Technical Skills
+  - name: AI & Machine Learning
     items:
-      - label: Python
-        level: 5
       - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
         level: 4
-  - name: Research & Communication
+      - label: Deep Learning
+        level: 4
+      - label: Computer Vision
+        level: 3
+      - label: Large Language Models
+        level: 3
+  - name: Cloud & Architecture
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+      - label: Cloud Computing (Tencent Cloud)
         level: 4
-      - label: Grant Proposals
+      - label: Solutions Architecture
         level: 4
+      - label: Python
+        level: 4
+  - name: Professional Skills
+    items:
+      - label: Technical Communication
+        level: 4
+      - label: Problem Solving
+        level: 4
+      - label: Cross-team Collaboration
+        level: 3
 
 languages:
-  - name: English
+  - name: Chinese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
-    label: Fluent
+    label: Professional
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+awards: []
