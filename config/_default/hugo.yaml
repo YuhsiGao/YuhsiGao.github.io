@@ -13,7 +13,7 @@ baseURL: 'https://yuhsigao.github.io/academic-cv/'
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 

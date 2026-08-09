@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Cloud & AI Solutions Architect | MSc AI @ CSU"
+    tagline: "AI Master's Student @ CSU"
     # Site meta description for search engines and social sharing
-    description: "Yuxi Gao - Cloud & AI Solutions Architect Intern at Tencent Cloud | MSc AI @ Central South University | Open to SA and Sales opportunities"
+    description: "Yuxi Gao - AI Master's student at Central South University. Excited to see AI bring new change to the world. Open to SA and Sales opportunities"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)
@@ -37,9 +37,9 @@ hugoblox:
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
-      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
+      primary: "teal" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      secondary: "slate"
+      neutral: "slate" # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
@@ -60,7 +60,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   typography:
     # Theme pack: name from data/fonts/
-    pack: "academic"
+    pack: "editorial-modern"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
@@ -87,10 +87,10 @@ hugoblox:
     # Menu alignment
     align: center # left | center | right
     # Feature toggles
-    search: true
-    theme_toggle: true
-    theme_picker: true
-    language_switcher: true
+    search: false
+    theme_toggle: false
+    theme_picker: false
+    language_switcher: false
     # Call-to-action button
     cta:
       enable: false
@@ -114,9 +114,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} {name}"
     license:
-      type: cc # cc | custom
+      type: "" # cc | custom
       allow_derivatives: false
       share_alike: true
       allow_commercial: false

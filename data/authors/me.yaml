@@ -5,13 +5,15 @@ name:
   display: Yuxi Gao
   given: Yuxi
   family: Gao
-  alternate: '高宇熙'
+  alternate: '高宇希'
   pronunciation: ''
-  pronouns: he/him
+  pronouns: ''
 postnominals: []
 status:
   icon: "☁️"
-role: Cloud & AI Solutions Architect Intern @ Tencent
+role: ''
+avatar:
+  filename: avatar.jpg
 bio: |
   I believe continuous experiences and learning are the best way to connect with the world.
 
@@ -19,13 +21,9 @@ bio: |
 
   I currently work as a Solutions Architect at Tencent Cloud, exploring how AI can empower industry solutions and create business value. Prior to that, I completed several algorithm engineering internships at Bosch, Jinchuan Group, and Zhejiang United Science & Technology, which strengthened my foundation in applied AI and problem-solving.
 
-  Open to SA and Sales opportunities — feel free to reach out!
+  Open to SA and Sales opportunities. Feel free to reach out!
 
-affiliations:
-  - name: Tencent Cloud
-    url: https://cloud.tencent.com/
-  - name: Central South University
-    url: https://www.csu.edu.cn/
+affiliations: []
 
 links:
   - icon: at-symbol
@@ -45,39 +43,37 @@ interests:
 
 education:
   - degree: Master of Engineering in Artificial Intelligence
-    institution: Central South University (中南大学)
+    institution: Central South University
     start: 2024-09-01
     end: 2027-06-30
-    summary: |
-      Currently pursuing MSc in AI at Central South University. Research focus on artificial intelligence and its industrial applications.
   - degree: Bachelor of Engineering in Communication Engineering
-    institution: Central South University of Forestry and Technology (中南林业科技大学)
+    institution: Central South University of Forestry and Technology
     start: 2020-09-01
     end: 2024-06-30
 
 experience:
   - role: Solutions Architect Intern (Tencent Cloud)
-    org: Tencent (腾讯)
+    org: Tencent
     start: 2026-05-01
     summary: |
       Exploring how AI can empower industry solutions and create business value. Working on cloud and AI solutions architecture at Tencent Cloud.
     location: Shenzhen, Guangdong, China
   - role: Algorithm Engineer Intern
-    org: Bosch (博世)
+    org: Bosch
     start: 2025-10-01
     end: 2025-11-30
     summary: |
       Algorithm engineering internship focused on applied AI solutions.
     location: Changsha, Hunan, China
   - role: Algorithm Engineer Intern
-    org: Jinchuan Group Ltd. (金川集团)
+    org: Jinchuan Group Ltd.
     start: 2025-02-01
     end: 2025-06-30
     summary: |
       Algorithm engineering internship. Hybrid work arrangement.
     location: Jinchang, Gansu, China
   - role: Algorithm Engineer Intern
-    org: Zhejiang United Science & Technology Co., Ltd. (浙江众合科技)
+    org: Zhejiang United Science & Technology Co., Ltd.
     start: 2024-04-01
     end: 2024-08-31
     summary: |

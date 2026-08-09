@@ -1,0 +1,36 @@
+# HugoBlox Font Pack - Modern Sans (custom)
+# https://docs.hugoblox.com
+
+hugoblox:
+  meta:
+    format: "hugoblox-font@1"
+    name: "Modern Sans"
+    vendor: "custom"
+    version: "1.2.0"
+    license: "MIT"
+    style: "sans"
+    description: "Sora display sans paired with Manrope for an elegant, confident tech-professional feel"
+
+  families:
+    heading: "Sora"
+    body: "Manrope"
+    code: "JetBrains Mono"
+
+  weights:
+    heading: [400, 500, 600, 700]
+    body: [400, 500, 600, 700]
+    code: [400, 500]
+
+  leading:
+    heading: 1.12
+    body: 1.65
+    code: 1.5
+
+  tracking:
+    heading: "-0.02em"
+    body: "-0.01em"
+
+  variable:
+    heading: true
+    body: true
+    code: false
